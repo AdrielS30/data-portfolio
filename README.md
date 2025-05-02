@@ -46,7 +46,7 @@ Thank you for viewing my data analysis portfolio! This repo includes three proje
 
 
 ## 📎 About Me
-I'm a data-analyst with a background in political organizing and solar development. I enjoy employing combining my domain knowledge and technical skills to answer meaningful questions through data.
+I'm a data-analyst with a background in political organizing and solar development. I enjoy combining my domain knowledge and technical skills to answer meaningful questions through data.
 
 📬 **Contact:**
 - adrielstokes2@gmail.com
