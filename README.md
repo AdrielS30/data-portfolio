@@ -1,6 +1,6 @@
 # 📊 Data Analysis Portfolio
 
-Thank you for viewing my data analysis portfolio! This repo includes three projects that showcase my ability to find insights and trends in the fields of solar power and political engagement. These finding are obtained through the practices of Exploratory Data Analysis (EDA) and Explore Transform Load (ETL) processes. Tools and techniques used are:
+Thank you for viewing my data analysis portfolio! This repo includes three projects that showcase my ability to find insights, trends, and correlations in the fields of solar power and political engagement. These finding are obtained through the practices of Exploratory Data Analysis (EDA), Explore Transform Load (ETL) processes, and statistical testing. Tools and techniques used are:
 
 - Python:
     - pandas, seaborn and matplotlib libraries
@@ -9,7 +9,9 @@ Thank you for viewing my data analysis portfolio! This repo includes three proje
     - Database management
     - Querying and filtering
 - Statistics:
-    - Hypothesis testing and distribution analysis
+    - Hypothesis testing
+    - Distribution analysis
+    - Correlation analysis
 - Storytelling:
     - Communicating insights through data-driven narratives
 - Tableau:
